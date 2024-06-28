@@ -1,6 +1,6 @@
 # Data Science Enthusiast
 
-#### Technical Skills: Python, Java, C/C++, HTML MATLAB
+#### Technical Skills: Python, Java, C/C++, HTML, MATLAB
 
 ## Education
 - B.Tech, Electrical and Electronics Engineering | International Institute of Information Technology, Bhubaneswar (_2021-25_)								       		
